@@ -25,7 +25,7 @@ let package = Package(
             name: "TUStyle",
             dependencies: [],
             resources: [
-                .process("Resource/Colors.xcassets")
+                .process("Resource/Color.xcassets")
             ]),
         .testTarget(
             name: "TUStyleTests",
