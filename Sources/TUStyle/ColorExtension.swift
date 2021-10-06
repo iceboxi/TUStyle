@@ -21,4 +21,8 @@ public extension UIColor {
     static let grapefruit = UIColor(named: "grapefruit", in: .module, compatibleWith: nil)!
     static let steel2 = UIColor(named: "steel2", in: .module, compatibleWith: nil)!
     static let tomato = UIColor(named: "tomato", in: .module, compatibleWith: nil)!
+    static let activityGray = UIColor(named: "activityGray", in: .module, compatibleWith: nil)!
+    static let activityRed = UIColor(named: "activityRed", in: .module, compatibleWith: nil)!
+    static let activityYellow = UIColor(named: "activityYellow", in: .module, compatibleWith: nil)!
+    static let activityOrange = UIColor(named: "activityOrange", in: .module, compatibleWith: nil)!
 }
